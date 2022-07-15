@@ -7,7 +7,7 @@ lastmod: 2022-07-12T16:45:40+08:00
 draft: false
 authors: ["浮尘"]
 featuredImage: "taureon.jpg"
-link: "https://www.taureon.io/
+link: "https://www.taureon.io/"
 tags: ["投资机构","Taureon"]
 categories: ["navigation"]
 navigation: ["投资机构"]
